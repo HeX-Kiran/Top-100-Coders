@@ -11,9 +11,7 @@
 ### Portfolio Highlights
 
 
-#### History of Open Source Contributions:
 
-- Created "TouT Planner" an extension of Kanban Board which can be used to prioritize daily task as per customer need.I was able to design and develop UI using HTML,CSS and Javascript. 
 
 #### History of Community Engagement:
 A part of Scaler Learner Community:- Mentored students ,1-1 iteraction with professional learners and a active member of scaler discussion team.
@@ -49,6 +47,28 @@ I believe that leadership is not a position, but a mindset. It is not about auth
 
 - 1:1 Mentor session with working proffessional for all the talents create a bright roadmap for learners.
 - Oraganise district level or sub district wise hackathons to bring out future stars.
+
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> I am a embedded software engineer with 2 years of industrial experiences. I am passionate about web and web technologies
+
+#### My Contribution:
+- We have built an automatic medical scribing system.My part of contribution include creating apis to create openAI model object and structure the prompt to produce an medical draft
+
+#### Key Contributions:
+-Our solution reduces the role of medical scribers or manual effort of doctors to draft the medical report 
+
+#### Challenges Overcome
+- OpenAi,React and NodeJs is very new to me and i have explored a lot in these few hours.
+
+#### Future Enhancements:
+- A user interface to get the health analytics
+#### Final Thoughts:
+- The journey was very inspiring and with the motivation with my collegue i have learened a lot. 
+
+---
 
 
 
